@@ -18,6 +18,7 @@ build_script:
 
 test_script:
   # скрипт тестирования
+  
 
 deploy_script:  # скрипт развёртывания
   - git config --global credential.helper store
