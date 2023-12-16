@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/rpos7gp09rn4fwts?svg=true)](https://ci.appveyor.com/project/EGalanin/ra-state)
+
+[Github Pages](https://egalanin.github.io/ra_state/ "Ссылка на Github Pages")
+
 <a name="top"></a>
 
 # 2. Домашнее задание к лекции «События и состояния»
